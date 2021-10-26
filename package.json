@@ -1,0 +1,10 @@
+{
+  "name": "@cmath10/js-dump",
+  "description": "webpack loader for Vue I18n",
+  "version": "0.0.0",
+  "keywords": [
+    "dump"
+  ],
+  "license": "MIT",
+  "main": "dist/dump.esm.js"
+}
